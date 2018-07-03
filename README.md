@@ -1,4 +1,4 @@
-# left-join
+# Stewardship and NTA: left join, count per nta, intersect
 joining stewardship and street tree data so that tree stewardship has spatial locations
 
 -- look at tree ID for stewardship data, needs to be same type as tree ID for street tree tree ID
