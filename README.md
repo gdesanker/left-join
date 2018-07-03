@@ -8,6 +8,7 @@ select "row.names", id, "dateDone", "durationInMinutes", "activitiesDone", group
 select zipcode, boroname, tree_dbh, geom_2263, tree_id from env_assets.streettrees2015;
 
 
+-- LEFT JOIN
 -- left join of stewardship data with street tree geometries
 -- make sure treeIDs are cast as same type
 
